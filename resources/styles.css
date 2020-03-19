@@ -1,0 +1,119 @@
+#ddmmyyyy {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 95%;
+  fill: #fcba03;
+}
+
+#ampm {
+  font-size: 15;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 35%;
+  y: 93%;
+  fill: #fcba03;
+}
+
+#hours {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 1%;
+  y: 50%+55;
+  fill: #2F86B8;
+}
+
+#minutes {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 1%;
+  y: 80%+40;
+  fill: #2F86B8;
+}
+
+#battery {
+  font-size: 15;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 99%;
+  y: 95%;
+  fill: #fcba03;
+}
+
+#steps {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 1%;
+  y: 15;
+  fill: #C32148;
+}
+
+#calories {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 1%;
+  y: 35;
+  fill: #C32148;
+}
+
+#activeMins {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 1%;
+  y: 55;
+  fill: #C32148;
+}
+
+#floors {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 1%;
+  y: 75;
+  fill: #C32148;
+}
+
+#distance {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 1%;
+  y: 95;
+  fill: #C32148;
+}
+
+#hr {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 1%;
+  y: 115;
+  fill: #C32148;
+}
+
+#day {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 15;
+  fill: #fcba03;
+}

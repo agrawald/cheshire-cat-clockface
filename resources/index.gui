@@ -1,0 +1,17 @@
+<svg class="background">
+  <image href="coolcat2.png">
+        <animate attributeName="opacity" begin="load;enable;disable;click;activate" from="0" to="1" dur="3" final="restore" />
+  </image>
+  <text id="minutes" />
+  <text id="hours" />
+  <text id="hr"/>
+  <text id="battery"/>
+  <text id="steps"/>
+  <text id="floors"/>
+  <text id="calories"/>
+  <text id="activeMins"/>
+  <text id="distance"/>
+  <text id="ddmmyyyy"/>
+  <text id="ampm"/>
+  <text id="day"/>
+</svg>
