@@ -2,6 +2,10 @@
 
 The Fitbit Watch clockface. Supports Ionic, Versa, Versa Lite, Versa 2.
 
+# download
+
+Please follow this link https://gallery.fitbit.com/details/53eedc43-aed8-434b-bd33-542ad46f1158
+
 # functions
 
 Supports following functions, when supported for the watch
